@@ -1,0 +1,15 @@
+/*#termsDefinedOne {
+  display: none;
+}*/
+.defined {
+  display: none;
+}
+
+.definitionOne {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.definition:hover {
+  text-decoration: underline;
+}
